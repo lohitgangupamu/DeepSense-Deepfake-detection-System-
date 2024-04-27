@@ -105,4 +105,11 @@ performance and generalization capabilities.
 ![output 2](https://github.com/lohitgangupamu/minor-2-/assets/110151699/a1fc16fd-95fa-469a-91dd-a2433051a60b)
 
 
+# Contributors
+
+1. G.LOHIT
+2. K.S.L.N REDDY
+3. G.SRINIVAS
+
+
 
