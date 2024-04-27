@@ -1,6 +1,10 @@
 # Minor-2: Deepsense: An Insightful Deepfake Detection System
 
 
+
+# Abstract
+
+
 Our pioneering system is a beacon of excellence in the realm of deepfake
 detection, boasting unmatched depth and sophistication in discerning manipulated
 media content. With a keen understanding and perceptive eye, it excels in
@@ -19,4 +23,4 @@ its comprehensive approach, it ensures a robust defense against the proliferatio
 falsified content, heralding a new era of trust and transparency in the digital age.
 
 
-# Minor-2:
+
